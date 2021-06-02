@@ -1,0 +1,27 @@
+#gray-box{
+    background-color: darkgray;
+    color: darkgray;
+    padding: 60px;
+}
+#left-rectangle{
+    background-color: lightgray;
+    color: lightgray;
+    float: left;
+    width: 100px;
+    height: 450px;
+}
+
+#right-rectangle{
+    background-color: lightgray;
+    color:lightgray;
+    float: right;
+    width: 100px;
+    height: 450px;
+
+}
+
+#black-box{
+    background-color: black;
+    padding: 30px;
+    margin-top: 370px;
+}
